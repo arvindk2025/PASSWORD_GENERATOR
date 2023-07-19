@@ -15,4 +15,4 @@ The Random Password Generator is a web application that generates random passwor
 
 ```bash
 git clone https://github.com/your-username/random-password-generator.git
-![PASS_GT](https://github.com/arvindk2025/PASSWORD_GENERATOR/issues/2#issue-1812593395)
+
