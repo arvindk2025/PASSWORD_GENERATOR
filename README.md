@@ -1,5 +1,7 @@
 # Random Password Generator
 
+![Alt text](./assets/PASS_GT.png?raw=true "PASSWORD_GENERATOR")
+
 The Random Password Generator is a web application that generates random passwords based on user preferences. It is implemented using HTML, CSS, and JavaScript.
 
 ## Features
